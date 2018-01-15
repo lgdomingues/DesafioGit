@@ -12,6 +12,9 @@
 		431F3E01200D580400C4CE1C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 431F3DFF200D580400C4CE1C /* Main.storyboard */; };
 		431F3E03200D580400C4CE1C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 431F3E02200D580400C4CE1C /* Assets.xcassets */; };
 		431F3E06200D580400C4CE1C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 431F3E04200D580400C4CE1C /* LaunchScreen.storyboard */; };
+		431F3E10200D581600C4CE1C /* quaddro@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 431F3E0D200D581500C4CE1C /* quaddro@3x.png */; };
+		431F3E11200D581600C4CE1C /* quaddro.png in Resources */ = {isa = PBXBuildFile; fileRef = 431F3E0E200D581600C4CE1C /* quaddro.png */; };
+		431F3E12200D581600C4CE1C /* quaddro@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 431F3E0F200D581600C4CE1C /* quaddro@2x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +25,9 @@
 		431F3E02200D580400C4CE1C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		431F3E05200D580400C4CE1C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		431F3E07200D580400C4CE1C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		431F3E0D200D581500C4CE1C /* quaddro@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "quaddro@3x.png"; sourceTree = "<group>"; };
+		431F3E0E200D581600C4CE1C /* quaddro.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = quaddro.png; sourceTree = "<group>"; };
+		431F3E0F200D581600C4CE1C /* quaddro@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "quaddro@2x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +64,9 @@
 				431F3DFD200D580400C4CE1C /* ViewController.swift */,
 				431F3DFF200D580400C4CE1C /* Main.storyboard */,
 				431F3E02200D580400C4CE1C /* Assets.xcassets */,
+				431F3E0E200D581600C4CE1C /* quaddro.png */,
+				431F3E0F200D581600C4CE1C /* quaddro@2x.png */,
+				431F3E0D200D581500C4CE1C /* quaddro@3x.png */,
 				431F3E04200D580400C4CE1C /* LaunchScreen.storyboard */,
 				431F3E07200D580400C4CE1C /* Info.plist */,
 			);
@@ -123,8 +132,11 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				431F3E10200D581600C4CE1C /* quaddro@3x.png in Resources */,
 				431F3E06200D580400C4CE1C /* LaunchScreen.storyboard in Resources */,
 				431F3E03200D580400C4CE1C /* Assets.xcassets in Resources */,
+				431F3E12200D581600C4CE1C /* quaddro@2x.png in Resources */,
+				431F3E11200D581600C4CE1C /* quaddro.png in Resources */,
 				431F3E01200D580400C4CE1C /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
